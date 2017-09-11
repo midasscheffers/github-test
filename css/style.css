@@ -1,5 +1,11 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
 body {
-  background-color: lightblue;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  background: lightgrey url("../images/houzes.jpg") repeat;
 }
 
 h1 {
